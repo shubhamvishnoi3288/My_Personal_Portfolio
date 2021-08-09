@@ -711,5 +711,13 @@ sup{
     color:whitesmoke;
     font-size: x-large;
 }
+footer{
+    color: green;
+    font-family:verdana;
+}
+footer:hover{
+    color:yellow;
+    font-family:cursive;
+}
 
 
