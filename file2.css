@@ -711,11 +711,11 @@ sup{
     color:whitesmoke;
     font-size: x-large;
 }
-footer{
+tt{
     color: green;
     font-family:verdana;
 }
-footer:hover{
+tt:hover{
     color:yellow;
     font-family:cursive;
 }
